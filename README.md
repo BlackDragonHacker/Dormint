@@ -124,7 +124,7 @@ Click the following url to register : [Dormint Bot](https://t.me/dormint_bot?sta
 
 # How to get auth token
 
-Network < status < Payload 
+`Network` < `status` < `Payload` 
 
 then click `auth_token` and copy `"ey......."` and paste `data.txt` file
 
