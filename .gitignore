@@ -1,0 +1,12 @@
+# Ignore log files
+http.log
+
+# Exclude data files containing tokens or sensitive information
+data.txt
+
+# Exclude environment-related files
+venv/  # if you use virtual environments
+*.pyc  # compiled Python files
+__pycache__/  # Python cache
+
+# Add any other files or directories that are specific to your local environment or contain sensitive data.
