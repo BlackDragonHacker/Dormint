@@ -124,5 +124,9 @@ Click the following url to register : [Dormint Bot](https://t.me/dormint_bot?sta
 
 # How to get auth token
 
+Network < status < Payload 
+
+then click `auth_token` and copy `"ey......."` and paste `data.txt` file
+
 <a href="https://ibb.co/bW7rgN4"><img src="https://i.ibb.co/h7CKR2G/In-Shot-20240708-112034081.jpg" alt="In-Shot-20240708-112034081" border="0"></a>
 # Thank you
