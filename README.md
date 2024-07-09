@@ -1,17 +1,18 @@
-# Dormint Bot
+# PocketFi Bot
 
-Auto Claim for Dormint Telegram Bot
+Auto Claim for PockerFi Telegram Bot
 
 
 # Features
 
 - [x] Auto Claim 
 - [x] Auto Start Mining
+- [x] Auto Claim Daily Boost
 - [x] Multi Account Support
 
 # Register
 
-Click the following url to register : [Dormint Bot](https://t.me/dormint_bot?start=6118216077)
+Click the following url to register : [PocketFi Bot](https://t.me/pocketfi_bot/Mining?startapp=ref-5496274031-alliance-sftearning_squad)
 
 # How to Use
 - [Windows](#windows)
@@ -27,12 +28,12 @@ Click the following url to register : [Dormint Bot](https://t.me/dormint_bot?sta
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/BlackDragonHacker/Dormint.git
+   git clone https://github.com/BlackDragonHacker/PocketFi.git
    ```
 
 3. goto tomarketod directory
    ```
-   cd Dormint
+   cd PocketFi
    ```
 
 4. install the require library
@@ -44,7 +45,7 @@ Click the following url to register : [Dormint Bot](https://t.me/dormint_bot?sta
 
 6. execute the main program 
    ```
-   python Dormint.py
+   python PocketFi.py
    ```
 
 ## Linux
@@ -63,13 +64,13 @@ Click the following url to register : [Dormint Bot](https://t.me/dormint_bot?sta
 2. Clone this repository
    
    ```shell
-   git clone https://github.com/BlackDragonHacker/Dormint.git
+   git clone https://github.com/BlackDragonHacker/PocketFi.git
    ```
 
 3. goto tomarketod directory
 
    ```shell
-   cd Dormint
+   cd PocketFi
    ```
 
 4. Install the require library
@@ -82,7 +83,7 @@ Click the following url to register : [Dormint Bot](https://t.me/dormint_bot?sta
 
 6. execute the main program 
    ```
-   python Dormint.py
+   python PocketFi.py
    ```
 
 ## Termux
@@ -101,12 +102,12 @@ Click the following url to register : [Dormint Bot](https://t.me/dormint_bot?sta
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/BlackDragonHacker/Dormint.git
+   git clone https://github.com/BlackDragonHacker/PocketFi.git
    ```
 
 3. goto tomarketod directory
    ```
-   cd Dormint
+   cd PocketFi
    ```
 
 4. install the require library
@@ -118,15 +119,15 @@ Click the following url to register : [Dormint Bot](https://t.me/dormint_bot?sta
 
 6. execute the main program 
    ```
-   python Dormint.py
+   python PocketFi.py
    ```
 
 
 # How to get auth token
 
-`Network` < `status` < `Payload` 
+`Network` < `getUserMining` < `Headers` <`telegramRawData`
 
-then click `auth_token` and copy `"ey......."` and paste `data.txt` file
+then copy `query_id=` or `user=` paste `data.txt` file
 
-<a href="https://ibb.co/bW7rgN4"><img src="https://i.ibb.co/h7CKR2G/In-Shot-20240708-112034081.jpg" alt="In-Shot-20240708-112034081" border="0"></a>
+<a href="https://ibb.co/0Kzx4kB"><img src="https://i.ibb.co/xYrN9ym/Screenshot-20240709-135548-Gallery-2.jpg" alt="Screenshot-20240709-135548-Gallery-2" border="0"></a>
 # Thank you
